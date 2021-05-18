@@ -1,0 +1,1 @@
+carrot,beans,green peas,ramen noodles,water,noodle masala,grilled meat,barbecue sauce,mayonnaise.crispy chilli.
